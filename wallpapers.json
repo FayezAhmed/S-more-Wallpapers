@@ -1,0 +1,66 @@
+{
+	"wallpapers": [
+		{
+			"name": "Waterfall",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/jfq553u2sy365zi/photo-1439761414027-4f4ebeeda3a3.jpg",
+			"dimensions": "6000 x 4000",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},
+		{
+			"name": "Snowy Mountain 1",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/wigdyqprrib9ae1/photo-1451877143509-97177e123e25.jpg",
+			"dimensions": "5167 x 3361",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Snowy Mountain 2",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/rg85adw8v89q70w/photo-1454111186746-109ec09571b2.jpg",
+			"dimensions": "7360 x 4912",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Foggy Forest",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/c43g3pwh6gbbc3e/photo-1454105511235-eda89ad84214.jpg",
+			"dimensions": "4928 x 3264",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "B&W City",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/ggcvloste7mmdr0/photo-1454027033961-47c0a98fa667.jpg",
+			"dimensions": "4928 x 3264",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Ring",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/rthv2nh5y27ky95/photo-1453668069544-b8dbea7a0477.jpg",
+			"dimensions": "4496 x 3000",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Cool Mountain",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/z6axcgqz6z7gwka/photo-1423683249427-8ca22bd873e0.jpg",
+			"dimensions": "4228 x 2848",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Splash",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/zumrm1tlqg5fwim/photo-1450131265492-91dc0479d541.jpg",
+			"dimensions": "3264 x 2176",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Sunrise",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/19m8k6pttjlw4y5/photo-1431492299426-2ea1ce429cc0.jpg",
+			"dimensions": "5436 x 3624",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		},{
+			"name": "Cloudy Mountain",
+			"author": "Unsplash",
+			"url": "http://www.mediafire.com/view/c3bx4g59e6txyxh/photo-1433354359170-23a4ae7338c6.jpg",
+			"dimensions": "4898 x 3265",
+			"copyright": "Copyright ¸ 2016 Unsplash. All rights reserved."
+		}
+	]
+}
